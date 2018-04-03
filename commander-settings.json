@@ -1,0 +1,799 @@
+{
+  "featureId": "dakara.eclipse.commander.plugin",
+  "version": 1,
+  "contentMode": "working",
+  "entries": [
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.file.export(exportWizardId\u003dorg.eclipse.ui.wizards.export.Preferences)"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.window.resetPerspective"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.actions",
+          "openWorkspace"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"false\" path\u003d\"/dakara.eclipse.commander.plugin/Commander Plugin Launcher.launch\"/\u003e\n"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.jdt.ui.edit.text.java.search.references.in.workspace"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.ui.views.ProblemView"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.egit.ui.StagingView"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.jdt.ui.edit.text.java.rename.element"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.window.maximizePart"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.debug.ui.DebugView"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.navigate.showIn(org.eclipse.ui.navigate.showIn.targetId\u003dorg.eclipse.jdt.ui.PackageExplorer)"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.jdt.ui.navigate.open.type"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.navigate.openResource"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.egit.ui.RepositoriesView"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.equinox.p2.ui.sdk.install"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.preferences",
+          "org.eclipse.ui.preferencePages.Keys"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.edit.text.goto.line"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.actions",
+          "com.ibm.magnolia.workitems.views.navigateToWorkItem"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "com.ibm.team.workitem.rcp.ui.OpenFavoritesAction"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "com.ibm.team.process.rcp.ui.teamArtifactsNavigator"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.actions",
+          "closeAll"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "com.ibm.team.filesystem.ui.changes.views.LocalWorkspaceChangesView"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"false\" path\u003d\"/Config/3.5-mac/RQM-server-local.launch\"/\u003e\n"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"false\" path\u003d\"/Config/3.5-mac/QM Initialize (local).launch\"/\u003e\n"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.ui.views.ProgressView"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.preferences",
+          "org.eclipse.pde.ui.TargetPlatformPreferencePage"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.debug.ui.commands.OpenDebugConfigurations"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.ui.console.ConsoleView"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.preferences",
+          "ValidationPreferencePage"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.window.savePerspective"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.preferences",
+          "org.eclipse.wst.sse.ui.preferences.json.validation"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.pde.runtime.LogView"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.equinox.p2.ui.sdk.installationDetails"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.wizards",
+          "org.eclipse.ui.wizards.new.file"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "com.ibm.team.filesystem.ide.ui.command.showHistory"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "com.ibm.team.filesystem.ide.ui.command.annotate"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "AUTOGEN:::com.ibm.team.workitem.ide/com.ibm.team.workitem.NewWorkItemAction"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.preferences",
+          "org.eclipse.ui.preferencePages.FileEditors"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.edit.text.goto.textEnd"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "jazz.devops.toolkit.rtc.ui.buildPatchCommand"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "AUTOGEN:::com.ibm.team.filesystem.shortcuts/com.ibm.team.filesystem.actions.applypatch"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.window.splitEditor(Splitter.isHorizontal\u003dfalse)"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.edit.text.goto.textStart"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.actions",
+          "org.eclipse.jdt.ui.actions.OpenCallHierarchy"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "com.ibm.team.filesystem.ide.ui.command.accept"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.wizards",
+          "com.ibm.team.workitem.wizards.NewQueryWizard"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"true\" path\u003d\"TestSuite\"/\u003e\n"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.newWizard(newWizardId\u003dorg.eclipse.jdt.ui.wizards.NewClassCreationWizard)"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.jdt.junit.ResultView"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.project.cleanAction"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.egit.ui.team.CompareWithPrevious"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.jdt.ui.edit.text.java.extract.method"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.actions",
+          "org.eclipse.search.OpenSearchDialog"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.search.ui.views.SearchView"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"true\" path\u003d\"ListRankAndSelectorPerformanceTest\"/\u003e\n"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.perspectives",
+          "org.eclipse.jdt.ui.JavaPerspective.Master"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.newWizard(newWizardId\u003dorg.eclipse.jdt.ui.wizards.NewPackageCreationWizard)"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.edit.text.folding.collapse_all"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"false\" path\u003d\"/Config/3.5-mac/datagen (local).launch\"/\u003e\n"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.search.ui.performTextSearchFile"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"false\" path\u003d\"/Config/3.5-mac/RQM-2012-local.launch\"/\u003e\n"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"false\" path\u003d\"/Config/3.5-mac/QM Initialize 4.0 (local).launch\"/\u003e\n"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "com.ibm.magnolia.workItemExplorer"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "dakara.eclipse.finder.plugin.commands.finderCommand"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"false\" path\u003d\"/Config/3.5-mac/QM MTM Sample Tests 4.0 (local).launch\"/\u003e\n"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.preferences",
+          "org.eclipse.debug.ui.StringVariablePreferencePage"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.jdt.debug.ui.DisplayView"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.egit.ui.team.SimplePush"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.perspectives.showPerspective(org.eclipse.ui.perspectives.showPerspective.perspectiveId\u003dorg.eclipse.ui.resourcePerspective)"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"true\" path\u003d\"StringCursorPrimitiveTest\"/\u003e\n"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.edit.text.folding.expand"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.debug.ui.BreakpointView"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.debug.ui.commands.ToggleBreakpoint"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.edit.text.folding.expand_all"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.actions",
+          "org.eclipse.jdt.internal.ui.actions.SurroundWithTemplateMenuAction"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.actions",
+          "org.eclipse.jdt.ui.actions.OrganizeImports"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.jdt.ui.edit.text.java.toggleBreadcrumb"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.navigate.collapseAll"
+        ]
+      },
+      "keepForever": false
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.window.togglestatusbar"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.ToggleCoolbarAction"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.e4.ui.parts",
+          "org.eclipse.debug.ui.VariableView"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.commands",
+          "org.eclipse.ui.views.showView(org.eclipse.ui.views.showView.viewId\u003dorg.eclipse.ui.views.BookmarkView)"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"false\" path\u003d\"/com.ibm.rqm.planning.service.tests/launches/Integration Test ( Async Migration ).launch\"/\u003e\n"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.wizards",
+          "com.ibm.team.workitem.wizards.NewWorkItemWizard"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.wizards",
+          "org.eclipse.jdt.ui.wizards.NewClassCreationWizard"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.actions",
+          "org.eclipse.jdt.ui.actions.Format"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          null,
+          "\u003c?xml version\u003d\"1.0\" encoding\u003d\"UTF-8\" standalone\u003d\"no\"?\u003e\n\u003claunchConfiguration local\u003d\"false\" path\u003d\"/com.ibm.rqm.planning.service.tests/launches/Integration Test ( Planning ).launch\"/\u003e\n"
+        ]
+      },
+      "keepForever": true
+    },
+    {
+      "entryId": {
+        "keys": [
+          "org.eclipse.ui.actions",
+          "org.eclipse.debug.ui.actions.Resume"
+        ]
+      },
+      "keepForever": true
+    }
+  ]
+}
